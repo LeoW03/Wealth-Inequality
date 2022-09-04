@@ -15,6 +15,9 @@ As such, I added a feature to cut out the top 1 percent :)
 
 Additionally, you can see how an income compares to a country. Forex is used to convert currencies so the program works for any given country and currecny.
 
-
 As of now, there is no front end but that may be a future project. 
+
+
+
+To run the program you also have to download all country data from https://wid.world/data/
 
